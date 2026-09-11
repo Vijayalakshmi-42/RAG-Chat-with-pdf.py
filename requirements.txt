@@ -1,0 +1,5 @@
+flet
+PyMuPDF
+pypdf
+chromadb
+langchain-text-splitters
